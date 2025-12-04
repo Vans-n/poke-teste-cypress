@@ -3,7 +3,7 @@
 
 Este repositório faz parte do desenvolvimento do **Poke+**, um projeto criado para praticar HTML, CSS, JavaScript e, principalmente, **testes automatizados com Cypress**.
 
-A ideia é montar uma aplicação simples, mas funcional, com Home, e Cadastro. E garantir que tudo funciona direitinho através de testes E2E.
+A ideia é montar uma aplicação simples, mas funcional, com Home e Cadastro. E garantir que tudo funciona direitinho através de testes E2E.
 
 Também aproveitei referências importantes durante o processo, como **W3Schools** e o tutorial do vídeo 👉 https://www.youtube.com/watch?v=fV7bhcpgWo0 que me ajudaram a entender melhor alguns conceitos.
 
@@ -16,7 +16,6 @@ Antes de começar, é preciso ter o **Node.js** instalado.
 ### 1. Instalar dependências gerais:
 ```bash
 npm init -y  → cria o package.json automaticamente  
-npm install  → instala as dependências  
 npm install cypress --save-dev  → instala o Cypress  
 npx cypress open  → abre o Cypress
 ```
