@@ -75,7 +75,7 @@ Node.js
 
 Cypress 12+
 
-Navegador (Chrome)
+Navegador (Chrome...)
 
 💬 Sobre o projeto
 
