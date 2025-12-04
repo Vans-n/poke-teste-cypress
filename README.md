@@ -15,18 +15,15 @@ Antes de começar, é preciso ter o **Node.js** instalado.
 
 ### 1. Instalar dependências gerais:
 ```bash
-npm install
-
-2. Instalar o Cypress:
-npm install cypress --save-dev
-
-3. Abrir a interface gráfica do Cypress:
-npx cypress open
+npm init -y  → cria o package.json automaticamente  
+npm install  → instala as dependências  
+npm install cypress --save-dev  → instala o Cypress  
+npx cypress open  → abre o Cypress
+```
 
 ✔️ O que os testes verificam?
 
 Os testes foram criados para garantir que tudo o que o usuário vê e faz no sistema funcione como deveria.
-Aqui vai um resumo simples e direto:
 
 🏠 1. Página Inicial (Home)
 
@@ -78,7 +75,7 @@ Node.js
 
 Cypress 12+
 
-Navegador (Chrome, Edge etc.)
+Navegador (Chrome)
 
 💬 Sobre o projeto
 
