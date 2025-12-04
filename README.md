@@ -23,9 +23,6 @@ npm install cypress --save-dev
 3. Abrir a interface gráfica do Cypress:
 npx cypress open
 
-Ou rodar diretamente pelo terminal:
-npx cypress run
-
 ✔️ O que os testes verificam?
 
 Os testes foram criados para garantir que tudo o que o usuário vê e faz no sistema funcione como deveria.
