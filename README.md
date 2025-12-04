@@ -55,7 +55,7 @@ Senhas diferentes exibem erro
 Quando tudo está certo → mensagem de sucesso aparece
 
 
-📁 Estrutura do Projeto
+````📁 Estrutura do Projeto
 Poke+/
 │── home.html
 │── cadastro.html
@@ -67,6 +67,7 @@ Poke+/
     │   ├── home.cy.js
     │   ├── cadastro.cy.js
     └── ...
+````
 
 🛠 Requisitos
 
